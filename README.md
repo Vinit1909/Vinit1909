@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Vinit!
+Software Engineer passionate about distributed systems, AI, and full-stack development.
 
-<!--
-**Vinit1909/Vinit1909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tech Stack
+`Python` | `TypeScript` | `Next.js` | `Node.js` | `React` | `Firebase` | `Docker`
 
-Here are some ideas to get you started:
+### 🚀 Current Work
+- Developing an **AI Skill Tutor** that creates tailored learning roadmaps and tracks progress with prompts and quizzes.  
+- Strengthening my **Data Structures and Algorithms** skills.  
+- Exploring **Distributed Systems** and concurrency.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Experience
+- **Volunteer, Frugal Innovation Hub** – Built educational platforms with Firebase.  
+- **SWE Intern, Hermis** – Integrated open-source LLMs for onboarding solutions.  
+
+### 📚 Learning
+Sharpening my **TypeScript** skills and best practices.
