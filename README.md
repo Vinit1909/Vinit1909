@@ -10,7 +10,7 @@ Software Engineer passionate about distributed systems, AI, and full-stack devel
 - Exploring **Distributed Systems** and concurrency.  
 
 ### 🏆 Experience
-- **SWE, Volunteer, Frugal Innovation Hub** – Built educational platforms with Firebase.  
+- **SWE, Frugal Innovation Hub** – Built educational platforms with Firebase.  
 - **SWE Intern, Hermis** – Integrated open-source LLMs for onboarding solutions.  
 
 ### 📚 Learning
